@@ -6,7 +6,7 @@
 //  Copyright © 2020 odd135. All rights reserved.
 //
 // Heeeyy this thing work
-// yaay
+// yaay?
 
 #include <iostream>
 #include <array>
