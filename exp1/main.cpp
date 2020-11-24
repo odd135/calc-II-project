@@ -8,10 +8,10 @@
 // Heeeyy this thing work
 // yaay?
 // try again
+// latitude test
 
 #include <iostream>
 #include <array>
-#include <string>
 #include <cmath>
 
 using namespace std;
@@ -43,20 +43,20 @@ void arraythings(){
     }
 }
 
-void polymorphthings(){
-    class laptop{
-    private:
-        string arch="x86";
-        string model="";
-        long ram=16;
-    protected:
-    public:
-    };
-    class dell: public laptop{
-    public:
-        string model="xps";
-    };
-}
+//void polymorphthings(){
+//    class laptop{
+//    private:
+//        string arch="x86";
+//        string model="";
+//        long ram=16;
+//    protected:
+//    public:
+//    };
+//    class dell: public laptop{
+//    public:
+//        string model="xps";
+//    };
+//}
 
 void maclaurintest(){
     
